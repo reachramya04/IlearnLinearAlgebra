@@ -1,27 +1,34 @@
 Topic 5: Determinants
 
+Determinants (determinants.md): How to compute determinants and their significance.
+
 Markdown
 
-# Determinants
+# 1. Determinants
 =============
 
-## Definition
+## 1.1. Definition
 A determinant is a scalar value.
 
-## Properties
+## 1.2. Properties
 * **Zero Determinant**: Singular matrix.
 * **Non-Zero Determinant**: Invertible matrix.
 
-## Calculating Determinants
+## 1.3. Calculating Determinants
 * **Cofactor Expansion**: Recursive formula.
 * **LU Decomposition**: Factorization.
 
-## Example
+## 1.4. Example
 Matrix A = [[1, 2], [3, 4]]
+
+The formula for the determinant of a 2x2 matrix is:
+$$ \text{det}(A) = ad - bc $$
 
 det(A) = 1 × 4 - 2 × 3 = -2
 
-## Visualization
+
+
+## 1.5. Visualization
 ![Determinant Visualization](assets/determinants.png)
 
 
