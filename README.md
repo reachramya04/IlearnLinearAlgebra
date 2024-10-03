@@ -1,2 +1,2 @@
 # IlearnLinearAlgebra
-My notes for Linear Algebra
+A markdown-based project to document concepts in Linear Algebra.
